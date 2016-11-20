@@ -1,0 +1,9 @@
+a {
+  color: #ffffff;
+  text-decoration: none;
+  margin: 10px;
+}
+
+a.active {
+  text-decoration: underline;
+}
